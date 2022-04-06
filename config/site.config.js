@@ -54,7 +54,7 @@ module.exports = {
     },
     {
       name: 'GitHub',
-      link: 'https://gitee.com/RetR673/public_onedrive-vercel-index',
+      link: 'https://github.com/IAXRetailer/public_onedrive-vercel-index',
     },
   ],
 
